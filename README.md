@@ -57,13 +57,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 ### Sample Output:
 ```bash
-👤 Name: XYZ
-📧 Email: xyz@gmail.com
-📱 Phone: 1234567890
+ Name: XYZ
+ Email: xyz@gmail.com
+ Phone: 1234567890
 
-✅ Resume Score: 14/20
+ Resume Score: 14/20
 
-📌 Suggested Improvements:
+ Suggested Improvements:
 Try including these keywords in your resume:
 - understanding
 - willingness
