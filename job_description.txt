@@ -1,0 +1,19 @@
+We are looking for a skilled and motivated Developer to join our team. The ideal candidate will be responsible for designing, developing, testing, and maintaining software applications to meet user and business needs. You should have a strong understanding of coding principles, problem-solving skills, and a willingness to learn new technologies.
+
+Responsibilities:
+Write clean, efficient, and maintainable code
+Develop and implement new software programs or features
+Test and debug applications to ensure optimal functionality
+Collaborate with other team members including designers, testers, and project managers
+Troubleshoot and fix issues reported by users
+Stay up-to-date with the latest industry trends and technologies
+Requirements:
+Proficiency in one or more programming languages (e.g., Python, Java, C#, JavaScript)
+Understanding of software development life cycle (SDLC)
+Familiarity with databases, APIs, and version control systems (e.g., Git)
+Strong problem-solving and communication skills
+Bachelor’s degree in Computer Science, Information Technology, or a related field (or equivalent experience)
+Preferred Skills (Optional):
+Experience with web or mobile development
+Knowledge of frameworks (e.g., React, Django, Spring Boot)
+Understanding of Agile or Scrum methodologies
